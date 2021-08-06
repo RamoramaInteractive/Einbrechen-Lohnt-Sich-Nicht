@@ -10,7 +10,7 @@ During my bachelor studies in Digital Media I developed the short animation film
 
 This film is about a burglar who breaks into a house because he discovered a huge bag of money in a window. But a nasty surprise is waiting for him.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pL-oSNiEBeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://i3.ytimg.com/vi/pL-oSNiEBeI/hqdefault.jpg)](https://www.youtube.com/embed/pL-oSNiEBeI)
  
 ## Future
 
