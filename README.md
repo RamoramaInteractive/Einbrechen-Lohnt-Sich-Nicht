@@ -6,7 +6,7 @@
 - [Notes](#notes)
 
 ## Introduction
-During my bachelor studies in Digital Media I developed the short animation film *Einbrechen Lohnt sich nicht (Breaking in does not pay)* with Blender 2.76. The time period to complete the film was between October and December. Through this film I also learned the basics of modeling 3D objects, storyboarding, lighting and animating.
+During my bachelor studies in *Digital Media* at the [Fulda University of Applied Science](https://www.hs-fulda.de/en/home) I developed the short animation film *Einbrechen Lohnt sich nicht (Breaking in does not pay)* with Blender 2.76. The time period to complete the film was between October and December. Through this film I also learned the basics of modeling 3D objects, storyboarding, lighting and animating.
 
 This film is about a burglar who breaks into a house because he discovered a huge bag of money in a window. But a nasty surprise is waiting for him.
 
